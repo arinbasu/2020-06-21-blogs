@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blogging from github using hackmd
+title: Arindam Basu's blog
 email: arin_basu@pm.me
 description: > # this means to ignore newlines until "baseurl:"
   A set of posts and pages from Arin
@@ -24,7 +24,7 @@ github_username:  arinbasu
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-tactile
 gems:
   - jekyll-feed
 exclude:
